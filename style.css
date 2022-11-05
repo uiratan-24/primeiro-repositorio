@@ -20,6 +20,7 @@ em strong {
 
 .principal {
     bacrground: #CCCCCC;
+    padding: 30px;
 }
 
 .itens { 
@@ -27,6 +28,7 @@ em strong {
 }
 .benefícios { 
      bacrground: #FFFFFF;
+     padding: 20px;
 }
 h2 {
      text-align: center;
