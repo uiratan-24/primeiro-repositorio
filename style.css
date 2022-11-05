@@ -1,9 +1,9 @@
 p {
     text-align: center;
-    bacrground: #CCCCCC
+    background: #CCCCCC
 }
 body { 
-       bacrground: #CCCCCC;
+       background: #CCCCCC;
 }
 p { 
     text-align: center;
@@ -19,7 +19,7 @@ em strong {
 }
 
 .principal {
-    bacrground: #CCCCCC;
+    background: #CCCCCC;
     padding: 30px;
 }
 
@@ -27,7 +27,7 @@ em strong {
          font-style: italic;
 }
 .benefícios { 
-     bacrground: #FFFFFF;
+     background: #FFFFFF;
      padding: 20px;
 }
 h2 {
