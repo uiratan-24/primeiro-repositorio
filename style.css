@@ -34,3 +34,9 @@ h2 {
 .imagembenefícios {
     width: 50%;
 }
+ul { 
+     display: inline-block; 
+     vertical -aling: top;
+     width: 20%;
+     margin-right: 15%
+}
