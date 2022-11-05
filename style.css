@@ -18,6 +18,16 @@ em strong {
           width: 100%;
 }
 
+.principal {
+    bacrground: #CCCCCC;
+}
+
 .itens { 
          font-style: italic;
+}
+.benefícios { 
+     bacrground: #FFFFFF;
+}
+h2 {
+     text-align: center;
 }
